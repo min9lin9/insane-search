@@ -25,3 +25,4 @@ evals/
 # Environment
 .env
 .env.local
+.omc/
