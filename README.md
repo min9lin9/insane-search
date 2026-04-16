@@ -4,7 +4,7 @@ English | [한국어](README.ko.md)
 
 > **The scraper that's too stubborn to quit.**
 
-403. WAF. CAPTCHA. Empty SPA. Login wall. When every normal tool taps out, insane-search is just getting started. Five probe phases. Auto-installs TLS impersonation. Discovers hidden APIs through a real browser. Tries everything — and for every site that claimed to be "blocked," something always works.
+`403`. WAF. CAPTCHA. Empty SPA. Login wall. When every normal tool taps out, insane-search is just getting started. Five probe phases. Auto-installs TLS impersonation. Discovers hidden APIs through a real browser. Tries everything — and for every site that claimed to be "blocked," something always works.
 
 No API keys. No signup. No config. Install, and watch Claude Code stop giving up.
 
